@@ -1,5 +1,5 @@
-# link-shortening.exe
-link-shortening
+# link-shortening
+link-shortening.exe
 
 License : 
 1.Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
